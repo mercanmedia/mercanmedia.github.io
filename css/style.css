@@ -57,6 +57,11 @@ img {
 	max-width: 100%;
 }
 
+.videofull {
+	width: 100%;
+}
+
+
 input:focus,
 select:focus,
 button:focus,
